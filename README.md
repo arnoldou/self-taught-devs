@@ -27,8 +27,7 @@ puedes fortalecer la menera en que codificas :3
 - [Libros / lectura](#libros--lectura)
 - [Codecamps](#codecamps)
 - [Hackathon / Codejam](#hackathon--codejam)
-- [Tutoriales](#tutoriales)
-- [Curso](#curso)
+- [Cursos y Tutoriales](#cursos y tutoriales)
 - [Sin especificar](#sin-especificar)
 - [Perfiles de Twitter](#perfiles-de-twitter)
 
