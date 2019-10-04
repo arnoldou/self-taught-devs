@@ -36,6 +36,11 @@ puedes fortalecer la menera en que codificas :3
 ### [JSFiddle](https://jsfiddle.net/) 
 > An online code editor, learning environment, and community for front-end web
 development using HTML, CSS and JavaScript code snippets.
+### [Playcode](https://playcode.io/) 
+> Quickly and Easily make Frontend Experiments. Share your project just by copy browser url.
+### [Codepen](https://codepen.io/) 
+> An online code editor, learning environment, and community for front-end web
+development using HTML, CSS and JavaScript code snippets.
 ### [CheckIO](https://checkio.org/) 
 > Coding games for beginners and advanced programmers where you can improve your
 coding skills by solving engaging challenges and fun task using Python and
@@ -45,9 +50,18 @@ JavaScript.
 kata in the dojo and reach your highest potential.
 
 # Youtubers 
-
+### [Canal de freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) 
+>Technical courses with no ads.
+### [Fun Fun Functions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) 
+> Technical courses with no ads.
+### [Nico Bytes](https://www.youtube.com/channel/UCz8-0dWiVLY17Rea7qi2cSQ) 
+> Angular, TypeScript y Ionic.
 
 # Libros / lectura 
+### [Eloquent Javascript](https://eloquentjavascript.net/) 
+> A modern introduction to programming. 
+### [Javascript for Cats](http://jsforcats.com/) 
+> An introduction for new programmers.
 ### [HTTP Status Codes definitions](https://www.restapitutorial.com/httpstatuscodes.html) 
 > This page is created from HTTP status code information found at ietf.org and
 Wikipedia.
@@ -64,24 +78,23 @@ development accessible to anyone
 # Hackathon / Codejam 
 
 
-# Tutoriales 
+# Cursos y Tutoriales 
 ### [W3Schools](https://www.w3schools.com/) 
 > W3Schools is an educational website for learning web technologies online
 ### [Scrimba](https://scrimba.com/) 
 > Scrimba lets you play around with the instructor's code directly inside the
 screencast. As a result, you'll learn faster and have more fun.
+### [Javascript.info](https://javascript.info/) 
+> The Modern JavaScript Tutorial
+How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+### [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) 
+> Learn the JavaScript fundamentals you'll need for front-end or back-end development.
 
-# Curso 
-
-
-# Sin especificar 
+# Plataformas 
 ### [Heroku](https://www.heroku.com) 
 > Heroku is a cloud platform that lets companies build, deliver, monitor and scale
 apps — we're the fastest way to go from idea to URL, bypassing all those
 infrastructure headaches.
-### [Codepen](https://codepen.io/) 
-> An online code editor, learning environment, and community for front-end web
-development using HTML, CSS and JavaScript code snippets.
 ### [Codesignal/Codefights](https://app.codesignal.com/) 
 > Learn how you can go beyond resumes in technical hiring with a state-of-the-art
 assessment platform and advanced coding tests.
